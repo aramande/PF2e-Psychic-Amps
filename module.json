@@ -43,7 +43,7 @@
       }
     }]
   },
-  "manifest": "https://raw.githubusercontent.com/TikaelSol/PF2e-Psychic-Amps/master/module.json",
-  "download": "https://github.com/TikaelSol/PF2e-Psychic-Amps/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/aramande/PF2e-Psychic-Amps/master/module.json",
+  "download": "https://github.com/aramande/PF2e-Psychic-Amps/archive/refs/heads/main.zip",
   "protected": false
 }
